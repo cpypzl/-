@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-05-06T06:57:20.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" version="14.6.10" etag="NrEeP8CQB7POCXGOV2EL" type="github"><diagram id="Dl5NQqpoJ9iunSlB15fe">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-06T07:23:57.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.54" etag="7w6xYfGjKDX030y8sqqg" version="14.6.10" type="github">
+  <diagram id="Dl5NQqpoJ9iunSlB15fe" name="第 1 页">
+    <mxGraphModel dx="1037" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rPa9pYuKlq9AyiG4ZUh3-1" target="rPa9pYuKlq9AyiG4ZUh3-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="238" y="147" />
+              <mxPoint x="238" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rPa9pYuKlq9AyiG4ZUh3-1" target="rPa9pYuKlq9AyiG4ZUh3-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="508" y="107" />
+              <mxPoint x="508" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-1" value="Web系统主节点" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenapp_web;" vertex="1" parent="1">
+          <mxGeometry x="368" y="81" width="76" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-3" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.users;" vertex="1" parent="1">
+          <mxGeometry x="78" y="77" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rPa9pYuKlq9AyiG4ZUh3-4" target="rPa9pYuKlq9AyiG4ZUh3-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="278" y="107" />
+              <mxPoint x="278" y="107" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-4" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xenclient;" vertex="1" parent="1">
+          <mxGeometry x="108" y="87" width="91" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rPa9pYuKlq9AyiG4ZUh3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="448" y="147" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="598" y="147" />
+              <mxPoint x="598" y="147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-5" value="算法分析服务器" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.command_center;" vertex="1" parent="1">
+          <mxGeometry x="648" y="87" width="75.5" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-12" value="用户访问系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="238" y="87" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-13" value="Web系统调用算法分析服务器执行" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="498" y="81" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-14" value="返回分析结果到Web服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="498" y="156" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rPa9pYuKlq9AyiG4ZUh3-15" value="Web服务器返回结果到用户客户端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="238" y="156" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
